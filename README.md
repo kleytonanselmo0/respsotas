@@ -1,4 +1,4 @@
-# respsotas
+# respostas
 respostas /vaga de emprego
 
 1)A sequência de adições seria:
